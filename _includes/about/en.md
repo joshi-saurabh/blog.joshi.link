@@ -1,5 +1,5 @@
-Hi, I am Saurabh Joshi, a Network Engineer by profession & I live in Singapore. I chose this discpline in 2007 after graduating from university when I took a technical support job at Dlink. Since then I have worked at various organizations ranging from Managed Service Provider(NTT,BT & WWT),, Banks (Deutsche Bank & Credit Suisse) & I have help positions as Network Operations Engineer, Deployments Engineer.
+Hi, I am Saurabh Joshi, a Network Engineer by profession & I live in Singapore. I chose this discpline in 2007 after graduating from university when I took a technical support job at Dlink. Since then I have worked at various organizations ranging from Managed Service Provider(NTT,BT & WWT), Banks (Deutsche Bank & Credit Suisse) & I have held positions as Network Operations Engineer, Deployments Engineer.
 
-Networking is my bread and butter but I am longing to become a all round Systems Engineer.In my day job I do Enterprise Routing & Switching, Datacenters, Wireless networking. Outside of it, I am fascinated by Network Programmability, DevOps, Software Defined Networking, Linux, scripting and Open Source Softwares & I am trying to ride the learning curve one bit at a time. 
+Networking is my bread and butter but I am longing to become a all round Systems Engineer. I am fascinated by Network Programmability, DevOps, Software Defined Networking, Linux, scripting and Open Source Softwares & I am trying to ride the learning curve one bit at a time. 
 
-If you want to connect with me then click on the LinkedIn link on the right.
+If you want to connect with me then click on my LinkedIn link on the right.
