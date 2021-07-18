@@ -2,6 +2,6 @@ I am Saurabh Joshi, a Network Engineer by profession & I currently live in Singa
 
 Networking is my bread and butter but I am longing to become an all-round Systems Engineer. I am fascinated with Network Programmability, DevOps, Software Defined Networking, Linux, scripting and Open Source Softwares & I am trying to ride the learning curve one bit at a time. 
 
-I always had a calling for teaching and like to share my learnings with others. That is what I will try to do in this blog.
+I enjoy teaching and sharing my learnings with others, and that is what I will try to do in this blog.
 
-If you want to connect with me then click on the LinkedIn icon in the sidebar.
+If you would like to connect with me then click on the LinkedIn icon in the sidebar.
