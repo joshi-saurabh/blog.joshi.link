@@ -31,7 +31,7 @@ Although learning network concepts was easy, I realized that to master things wh
 
 Imagine if you have only a monochrome vision like some animals do. How boring the world would look? Just add few more colors to your eyesight and this beautiful colorful world appears in front of you. There are animals that can also see in infrared or like the european Robin who can 'sense' the magnatic waves maye have much beautiful (or uglier?) worlds than us. 
 
-We too can strive to add new colors in our life? How? How about learning musical instruents, learning a new language, Reading, Writing, Excercising, Cooking, Practicing any form of art, volunteering for some cause, having a pet, nurishing any other hobby, learning to trade to name a few;  or anything that you never did so far in your life?  
+We too can strive to add new colors in our life? How? How about learning musical instruents, learning a new language, Reading, Writing, Excercising, Cooking, Practicing any form of art, volunteering for some cause, having a pet, nurishing any other hobby, learning to trade to name a few;  or anything that you never did so far in your life? Maintaining this blog going forward is my attempt at it.
 
 Adding just one such shade to you palatte opens your mind to new possibilities, new dimensions of world, new paradigms which were never accessible to you before but now, you have created a new fold in you brain & thickened some more neural pathways. You have expanded your Umwelt a bit more & that is what enriches your life!
 
