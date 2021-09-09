@@ -4,7 +4,9 @@ title: "Expand your Umwelt"
 date: 2021-09-05
 author: "Saurabh Joshi"
 header-img: "img/post-bg-2015.jpg"
-tags: [Life,Self Improvement]
+tags: 
+    -Life
+    -Personal-Developement
 ---
 
 ## Expand Your Umwelt
