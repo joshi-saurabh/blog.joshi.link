@@ -1,6 +1,6 @@
-I am Saurabh Joshi, a Network Engineer by profession & I currently live in Singapore. I chose this discpline in 2007 after graduating from the university when I took amy first job as technical support engineer at D-link. Since then, I have worked in various capacities in organizations ranging from managed service Providers like NTT,BT & WWT and at financial institutions like Deutsche Bank & Credit Suisse. 
+Thank you for stopping by to read my blog. I am Saurabh Joshi & I am going to maintain this blog to record my learnings in technology & my thoughts on self improvement & life in general. I was born in Mumbai and spent most of my life there but from past many years I have been living & working in Singapore.
 
-Networking is my bread and butter but I am longing to become an all-round Systems Engineer. I am fascinated with Network Programmability, DevOps, Software Defined Networking, Linux, scripting and Open Source Softwares & I am trying to ride the learning curve one bit at a time. 
+IP networking has been my bread and butter for many years but I am longing to become an all-round Systems Engineer. Currently I enjoy reading & labbing about Network Programmability, Software Defined trends in networking, Linux, Scripting and open source softwares; & I am trying to ride this curve one bit at a time.
 
 I enjoy teaching and sharing my learnings with others, and that is what I will try to do in this blog.
 
