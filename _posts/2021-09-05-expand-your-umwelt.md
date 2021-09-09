@@ -7,9 +7,6 @@ author: "Saurabh Joshi"
 header-img: "img/post-bg-2015.jpg"
 tag: Personal-Developement
 ---
-
-## Expand Your Umwelt
-
 Recently I came across a YouTube video in which neuroscientist David Eagleman is presenting fascinating new technologies which will allow disabled people to get their missing senses like hearing, seeing and allow them to actually 'feel it' in their brain.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/4c1lqFXHvqI/0.jpg)](http://www.youtube.com/watch?v=4c1lqFXHvqI "Video Title")
