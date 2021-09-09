@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description:"IP Networking | Liunx | NetDevOps | Python | Open Source Softwares | Trainer & Lifelong Learner"
+sidebar-about-description: "IP Networking | Liunx | NetDevOps | Python | Open Source Softwares | Trainer & Lifelong Learner"
 sidebar-avatar: /img/DP.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
