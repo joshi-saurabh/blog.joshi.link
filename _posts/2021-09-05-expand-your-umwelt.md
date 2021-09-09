@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Expand your Umwelt"
+description: "Put plans into action"
 date: 2021-09-05
 author: "Saurabh Joshi"
 header-img: "img/post-bg-2015.jpg"
